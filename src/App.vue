@@ -64,12 +64,12 @@ export default {
 }
 
 .v-data-table {
-    width: 50%!important;
+    width: 70%!important;
     border-spacing: 0;
 }
 
 td.text-left {
-    width: 35%;
+    width: 50%;
 }
 
 .v-avatar.v-list-item__avatar {
